@@ -1,5 +1,5 @@
 # Food Site
-This project was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How to run project.
 1) Clone the repository. <br/>
