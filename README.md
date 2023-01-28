@@ -1,6 +1,8 @@
 # Food Site
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h3><a href='https://ankitnub-foodsite.netlify.app/'> Deployed site </a></h3>
+
 ## How to run project.
 1) Clone the repository. <br/>
 2) Open repository in a code editor. <br/>
